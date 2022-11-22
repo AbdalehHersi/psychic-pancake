@@ -1,0 +1,15 @@
+#introContainer {
+    border: solid 1px;
+    border-color: blue;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#introContainer > h1 {
+    text-decoration: wavy underline;
+}
